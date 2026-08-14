@@ -1,2 +1,2 @@
-# Premier League Attacking Output Analysis
-Exploratory data analysis investigating attacking metrics and associations across Premier League players.
+# Learning Sports Analytics
+Exploratory data analysis investigating various aspects of football including tactics, scouting & recruitment, business, and AI & emerging tech.
